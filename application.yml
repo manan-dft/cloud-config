@@ -3,9 +3,9 @@ app:
   description: Welcome to ${app.name}
 
 my:
-  greeting: Hello World
+  greeting: Hello World from server
   list:
-    values: One,Two,Three
+    values: One,Two,Three,four server
 
 db:
   connection: "{connectionString: 'http://__',userName: 'foo',password: 'pass'}"
